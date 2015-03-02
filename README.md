@@ -1,11 +1,11 @@
 # audiot
-A2B: converts ascii to quaternary.\n
-Return Value: an array\n
-Usage: a2b('input.txt');\n
-\n
-B2A: converts quaternary to ascii.\n
-Return Value: none.\n
-Usage: b2a(array, 'output.txt');\n
-\n
-Rx. just press run\n
-Tx. just press run\n
+A2B: converts ascii to quaternary.<br />
+Return Value: an array<br />
+Usage: a2b('input.txt');<br />
+<br />
+B2A: converts quaternary to ascii.<br />
+Return Value: none.<br />
+Usage: b2a(array, 'output.txt');<br />
+<br />
+Rx. just press run<br />
+Tx. just press run<br />
