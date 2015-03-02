@@ -6,7 +6,7 @@ T = 0.3; % Time per bit
 r = audiorecorder(Fs, 16, 1);
 
 num_sample = Fs*T+1; % Per bit
-recordtime = 9; % Recording duration has to be divisible by T
+recordtime = 6; % Recording duration has to be divisible by T
 
 recordblocking(r,recordtime);
 data= getaudiodata(r);
